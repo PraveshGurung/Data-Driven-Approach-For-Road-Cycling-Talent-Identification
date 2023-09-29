@@ -1,0 +1,501 @@
+rider_name,year,uci_points
+primoz roglic,2019,4209.3
+jakob fuglsang,2019,3457.5
+alejandro valverde,2019,3288.0
+julian alaphilippe,2019,3263.9
+egan bernal,2019,3206.7
+greg van avermaet,2019,2947.3
+alexander kristoff,2019,2461.5
+pascal ackermann,2019,2376.0
+elia viviani,2019,2357.1
+bauke mollema,2019,2220.0
+mathieu van der poel,2019,2176.0
+peter sagan,2019,2076.0
+diego ulissi,2019,2074.0
+oliver naesen,2019,2072.0
+emanuel buchmann,2019,2035.0
+tadej pogacar,2019,2004.3
+matteo trentin,2019,1905.0
+tim wellens,2019,1887.2
+adam yates,2019,1844.6
+nairo quintana,2019,1825.0
+caleb ewan,2019,1795.0
+michael woods,2019,1678.0
+aleksey lutsenko,2019,1673.0
+maximilian schachmann,2019,1496.0
+mike teunissen,2019,1468.6
+richard carapaz,2019,1464.0
+tiesj benoot,2019,1439.0
+sam bennett,2019,1412.9
+dylan groenewegen,2019,1402.8
+vincenzo nibali,2019,1393.9
+daryl impey,2019,1393.0
+miguel angel lopez,2019,1366.5
+michael matthews,2019,1330.9
+mikel landa,2019,1326.0
+yves lampaert,2019,1325.3
+sergio higuita,2019,1307.5
+wout van aert,2019,1283.0
+zdenek stybar,2019,1275.0
+remco evenepoel,2019,1257.2
+geraint thomas,2019,1254.25
+nils politt,2019,1253.9
+steven kruijswijk,2019,1230.0
+jasper stuyven,2019,1225.0
+philippe gilbert,2019,1212.0
+guillaume martin,2019,1204.0
+jack haig,2019,1177.0
+david gaudu,2019,1157.0
+wout poels,2019,1152.2
+stefan kung,2019,1150.0
+rohan dennis,2019,1140.8600000143051
+timothy dupont,2019,1116.0
+alberto bettiol,2019,1105.0
+rafal majka,2019,1101.5
+rui costa,2019,1097.0
+thibaut pinot,2019,1092.0
+jesus herrada lopez,2019,1067.0
+felix grossschartner,2019,1040.9300000071526
+kasper asgreen,2019,1019.1
+patrick konrad,2019,1018.0
+pavel sivakov,2019,1013.0
+baptiste planckaert,2019,1009.0
+ion izagirre,2019,1002.5
+anthony turgis,2019,996.0
+sonny colbrelli,2019,993.0
+luis leon sanchez,2019,984.5
+enric mas,2019,981.1
+bob jungels,2019,969.8
+simon clarke,2019,968.0
+bryan coquard,2019,961.0
+giovanni visconti,2019,946.0
+sep vanmarcke,2019,942.8
+benoit cosnefroy,2019,936.0
+marc sarreau,2019,933.0
+davide formolo,2019,928.5
+dylan teuns,2019,925.0
+michal kwiatkowski,2019,921.2
+jasper philipsen,2019,916.0
+youcef reguigui,2019,912.0
+michael valgren andersen,2019,905.0
+andrea vendrame,2019,904.0
+john degenkolb,2019,901.0
+amund grondahl jansen,2019,895.6
+richie porte,2019,885.0
+romain bardet,2019,878.0
+arnaud demare,2019,864.0
+dan martin,2019,840.0
+fernando gaviria,2019,822.0
+tom van asbroeck,2019,821.7
+ryan gibbons,2019,812.0
+mads pedersen,2019,808.0
+fabio jakobsen,2019,807.4299998283386
+niki terpstra,2019,801.0
+marc hirschi,2019,795.2
+benjamin dyball,2019,770.7099999785423
+matej mohoric,2019,766.0
+hugo hofstetter,2019,760.0
+florian senechal,2019,733.0
+warren barguil,2019,729.0
+dries de bondt,2019,722.0
+simon yates,2019,720.0
+christophe laporte,2019,713.5
+gorka izagirre,2019,679.5
+daniel felipe martinez,2019,678.8329999446869
+ivan garcia cortina,2019,676.0
+aleksandr vlasov,2019,671.4300000071526
+jasper de buyst,2019,670.0
+ben hermans,2019,661.8299999833107
+tim merlier,2019,660.3
+ivan ramiro sosa,2019,658.5
+valentin madouas,2019,657.0
+lilian calmejane,2019,651.0
+bjorg lambrecht,2019,649.289999961853
+giacomo nizzolo,2019,648.0
+jens keukeleire,2019,635.0
+onur balkan,2019,634.0
+pello bilbao,2019,631.0
+krists neilands,2019,629.0
+merhawi kudus,2019,618.0
+piotr havik,2019,616.7
+michael morkov,2019,609.5
+giulio ciccone,2019,602.0
+laurens de plus,2019,598.3
+tao geoghegan hart,2019,595.0
+rudy molard,2019,594.0
+alvaro jose hodeg,2019,591.6
+toms skujins,2019,589.0
+cees bol,2019,588.2
+thomas boudat,2019,588.0
+fausto masnada,2019,581.0
+chris harper,2019,577.0
+kristian sbaragli,2019,574.0
+andrea pasqualon,2019,571.0
+george bennett,2019,569.0
+nans peters,2019,566.0
+niccolo bonifazio,2019,552.0
+tejay van garderen,2019,551.5
+christopher lawless,2019,543.0
+eduard prades,2019,532.0
+ilnur zakarin,2019,527.6
+davide cimolai,2019,525.0
+simone velasco,2019,520.0
+edward irl dunbar,2019,515.8
+carl fredrik hagen,2019,511.289999961853
+davide ballerini,2019,511.0
+filippo ganna,2019,506.0
+tom dumoulin,2019,502.5
+gianni moscon,2019,502.2
+kristoffer halvorsen,2019,495.0
+aime de gendt,2019,494.0
+rigoberto uran,2019,493.8
+carlos betancur,2019,492.0
+wilco kelderman,2019,490.5
+simon spilak,2019,488.0
+niklas larsen,2019,487.3
+domenico pozzovivo,2019,483.0
+jan polanc,2019,482.0
+attila valter,2019,476.0
+mikkel bjerg,2019,474.3
+mattia cattaneo,2019,474.0
+luka mezgec,2019,472.0
+christophe noppe,2019,468.0
+dylan van baarle,2019,468.0
+amaury capiot,2019,465.0
+james piccoli,2019,462.0
+max walscheid,2019,460.6
+julien simon,2019,460.0
+mathias frank,2019,460.0
+jos van emden,2019,456.0
+edward theuns,2019,451.0
+arvid de kleijn,2019,443.0
+alberto dainese,2019,442.0
+orluis aular,2019,442.0
+danny van poppel,2019,438.0
+jai hindley,2019,437.5699996948242
+mikel nieve,2019,437.0
+justin jules,2019,430.0
+nacer bouhanni,2019,430.0
+alexandr riabushenko,2019,429.5
+martijn budding,2019,423.16999995708466
+lionel taminiaux,2019,423.0
+loic vliegen,2019,423.0
+adrien petit,2019,417.0
+james knox,2019,416.0
+cristian raileanu,2019,413.7
+victor campenaerts,2019,413.0
+lucas hamilton,2019,411.0
+hugh carthy,2019,410.5
+timo roosen,2019,409.0
+odd christian eiking,2019,407.0
+patrick bevin,2019,403.0
+ahmet orken,2019,402.0
+maciej paterski,2019,401.0
+xianjing lyu,2019,400.0
+davide villella,2019,397.0
+pierre latour,2019,397.0
+oscar sevilla,2019,395.9
+jan hirt,2019,394.0
+quentin pacher,2019,394.0
+jonathan hivert,2019,393.0
+emils liepins,2019,392.0
+tony gallopin,2019,389.0
+valerio conti,2019,383.0
+mihkel raim,2019,382.0
+stefan bissegger,2019,377.8
+diego rosa,2019,376.8
+julien el fares,2019,376.0
+oscar rodriguez,2019,376.0
+yauhen sobal,2019,375.0
+elcin asadov,2019,374.0
+piet allegaert,2019,374.0
+tom jelte slagter,2019,371.0
+carlos barbero,2019,368.0
+rein taaramae,2019,363.0
+boy van poppel,2019,361.0
+yevgeniy gidich,2019,356.7
+andre greipel,2019,356.0
+nikolay cherkasov,2019,354.0
+jan barta,2019,351.7099999785423
+edvald boasson hagen,2019,345.7
+ruben guerreiro,2019,345.0
+simone consonni,2019,345.0
+matthias brandle,2019,341.8
+rasmus quaade,2019,341.3599998950958
+chris hamilton,2019,338.0
+nariyuki masuda,2019,334.2
+edgar pinto,2019,334.0
+andreas leknessund,2019,332.0
+christofer robin jurado,2019,331.0
+vitaliy buts,2019,331.0
+eduard michael grosu,2019,330.0
+azzedine lagab,2019,329.0
+reinardt janse van rensburg,2019,329.0
+ariel maximiliano richeze,2019,328.9
+nelson oliveira,2019,328.0
+rudy barbier,2019,327.8299999833107
+alex aranburu,2019,324.3
+edwin avila,2019,324.0
+joe dombrowski,2019,324.0
+brandon mcnulty,2019,322.0
+marc soler,2019,322.0
+tobias foss,2019,321.5
+lorrenzo manzin,2019,320.2
+elie gesbert,2019,320.0
+edoardo affini,2019,319.2
+alexis gougeard,2019,319.0
+samuele battistella,2019,318.0
+luke rowe,2019,316.2
+alo jakin,2019,315.0
+johan esteban chaves,2019,315.0
+winner anacona,2019,315.0
+mekseb debesay,2019,312.5
+pawel franczak,2019,312.0
+lawrence naesen,2019,308.2
+antwan tolhoek,2019,307.14000034332275
+sebastian langeveld,2019,307.0
+thomas de gendt,2019,306.0
+jeroen meijers,2019,304.0
+owain doull,2019,302.0
+tobias ludvigsson,2019,302.0
+neilson powless,2019,301.0
+maurits lammertink,2019,300.0
+jose joaquin rojas,2019,299.0
+romain hardy,2019,299.0
+natnael berhane,2019,298.0
+thomas lebas,2019,298.0
+jonas vingegaard rasmussen,2019,297.6
+bas van der kooij,2019,296.0
+marko kump,2019,296.0
+giovanni aleotti,2019,294.2
+kevin geniets,2019,294.0
+alexis vuillermoz,2019,293.0
+marcel kittel,2019,293.0
+oscar riesebeek,2019,293.0
+sebastien reichenbach,2019,293.0
+daniel munoz,2019,292.0
+kevin rivera,2019,291.0
+roy jans,2019,291.0
+joao rodrigues,2019,289.0
+artem ovechkin,2019,286.0
+bram welten,2019,286.0
+edvaldas siskevicius,2019,286.0
+serghei tvetcov,2019,285.0
+clement champoussin,2019,284.4
+jasha sutterlin,2019,284.3
+soren kragh andersen,2019,284.1
+fabian lienhard,2019,284.0
+paolo toto,2019,283.0
+davide gabburo,2019,281.0
+rory townsend,2019,281.0
+remi cavagna,2019,280.0
+pierre barbier,2019,279.0
+polychronis tzortzakis,2019,278.0
+simon pellaud,2019,277.0
+jannik steimle,2019,276.0
+jimmy janssens,2019,276.0
+lukas postlberger,2019,276.0
+tanel kangert,2019,276.0
+emiel vermeulen,2019,275.0
+nicola bagioli,2019,275.0
+rudiger selig,2019,275.0
+sepp kuss,2019,274.0
+jens debusschere,2019,273.6
+alex dowsett,2019,270.6200000047684
+kevin le cunff,2019,270.0
+aksel nommela,2019,269.0
+marco haller,2019,267.6
+jonathan lastra,2019,267.0
+jelle vanendert,2019,266.0
+manuel rodas,2019,265.0
+alessandro de marchi,2019,264.0
+sirak tesfom,2019,263.5
+lawson craddock,2019,262.8
+thomas pidcock,2019,262.0
+clement russo,2019,261.0
+gianluca brambilla,2019,260.0
+hermann pernsteiner,2019,260.0
+robinson chalapud,2019,259.8599998950958
+chun kai feng,2019,258.0
+radoslav rogina,2019,258.0
+andreas kron,2019,255.1
+choon huat goh,2019,254.0
+jefferson cepeda hernandez,2019,253.0
+marco tizza,2019,253.0
+metkel eyob,2019,253.0
+keegan swirbul,2019,252.0
+dion smith,2019,250.6
+michael van staeyen,2019,250.0
+stanislaw aniolkowski,2019,250.0
+vadim pronskiy,2019,250.0
+dimitri claeys,2019,249.0
+savva novikov,2019,249.0
+stefan de bod,2019,248.7
+nicolas edet,2019,247.0
+patrick muller,2019,246.17000000178814
+xandro meurisse,2019,246.0
+santiago montenegro,2019,244.0
+jonas van genechten,2019,243.0
+norman vahtra,2019,243.0
+patrick schelling,2019,243.0
+pieter weening,2019,243.0
+carlos quintero,2019,242.4299999475479
+alexander kamp,2019,242.0
+mohammad ganjkhanlou,2019,242.0
+jonathan klever caicedo,2019,240.0
+branislau samoilau,2019,238.0
+marcos garcia,2019,235.0
+nils eekhoff,2019,235.0
+frantisek sisr,2019,233.70999997854233
+alois kankovsky,2019,233.0
+ben swift,2019,233.0
+jelle wallays,2019,232.9
+karel hnik,2019,232.7
+andreas stokbro,2019,232.1
+szymon sajnok,2019,230.8
+damien howson,2019,230.56999969482422
+boris vallee,2019,228.0
+jon aberasturi,2019,227.0
+mark padun,2019,227.0
+roman kreuziger,2019,227.0
+dmitriy gruzdev,2019,226.7
+francisco mancebo,2019,226.0
+kamil malecki,2019,226.0
+daniil fominykh,2019,225.7
+evgeny shalunov,2019,224.4
+tony martin,2019,223.61000180244446
+joni brandao,2019,223.0
+sergio luis henao,2019,222.0
+jay mccarthy,2019,221.0
+jayde julius,2019,221.0
+pierpaolo ficara,2019,221.0
+koen bouwman,2019,220.42000031471252
+jonas rutsch,2019,220.0
+segundo navarrete,2019,220.0
+robert gesink,2019,219.6
+gregor muhlberger,2019,219.5
+milan menten,2019,219.0
+nick schultz,2019,219.0
+david de la cruz,2019,218.8
+mykhaylo kononenko,2019,218.0
+tosh van der sande,2019,218.0
+adam de vos,2019,217.0
+amanuel ghebreigzabhier,2019,216.0
+enrico gasparotto,2019,216.0
+georg zimmermann,2019,215.0
+aurelien paret peintre,2019,214.0
+mathias norsgaard,2019,213.5
+hernan aguirre,2019,213.0
+georgios bouglas,2019,212.4
+benjamin prades reverter,2019,212.0
+clement venturini,2019,212.0
+damien touze,2019,212.0
+quentin jauregui,2019,212.0
+jakub mareczko,2019,211.32999992370605
+joris nieuwenhuis,2019,210.0
+julien duval,2019,209.0
+pim ligthart,2019,209.0
+matteo sobrero,2019,208.0
+mikel bizkarra,2019,208.0
+anthony delaplace,2019,207.0
+charalampos kastrantas,2019,207.0
+ethan hayter,2019,207.0
+ryan cavanagh,2019,207.0
+sam oomen,2019,206.4
+francesco gavazzi,2019,206.0
+pierre rolland,2019,206.0
+dario cataldo,2019,205.5
+gianni vermeersch,2019,205.3
+zakkari dempster,2019,205.0
+frederik backaert,2019,204.0
+jesse ewart,2019,203.7
+brent van moer,2019,201.9
+kilian frankiny,2019,201.0
+quinten hermans,2019,201.0
+julio alexis camacho,2019,200.0
+simone ravanelli,2019,200.0
+martin laas,2019,199.0
+patryk stosz,2019,199.0
+victor de la parte,2019,199.0
+benjamin declercq,2019,198.0
+lucas eriksson,2019,196.9
+zhandos bizhigitov,2019,196.67000007629395
+jan bakelants,2019,196.2
+fernando barcelo,2019,196.0
+antonio pedrero,2019,195.0
+jefferson alexander cepeda,2019,195.0
+marco canola,2019,194.0
+stanislau bazhkou,2019,194.0
+ian garrison,2019,193.0
+joao almeida,2019,193.0
+hugo houle,2019,192.0
+imerio cima,2019,192.0
+lasse norman hansen,2019,190.0
+clint hendricks,2019,189.0
+romain combaud,2019,189.0
+lawrence warbasse,2019,187.0
+moise mugisha,2019,186.3
+ilan van wilder,2019,185.7
+ildar arslanov,2019,185.0
+nick van der lijke,2019,185.0
+damiano caruso,2019,183.9
+alexander konychev,2019,183.0
+jan tratnik,2019,182.2
+andrey amador,2019,182.0
+nickolas zukowsky,2019,182.0
+jan willem van schip,2019,181.0
+jhonatan restrepo,2019,181.0
+magnus cort nielsen,2019,181.0
+filippo zaccanti,2019,180.0
+robin carpenter,2019,180.0
+luke durbridge,2019,177.6
+antonio carvalho,2019,177.0
+michal paluta,2019,176.0
+pieter serry,2019,176.0
+vicente garcia de mateus rubio,2019,176.0
+grzegorz stepniak,2019,175.0
+dries devenyns,2019,174.9
+nicolas roche,2019,174.8
+fabien doubey,2019,173.0
+jean pierre drucker,2019,171.5
+dimitri peyskens,2019,171.0
+edward planckaert,2019,171.0
+kent main,2019,170.5
+oleksandr polivoda,2019,169.4
+matteo moschetti,2019,169.0
+carlos verona,2019,168.0
+niklas eg,2019,168.0
+patrik tybor,2019,168.0
+thibault ferasse,2019,168.0
+alex molenaar,2019,167.0
+jonathan castroviejo,2019,166.42000007629395
+enrique sanz,2019,166.0
+andriy vasylyuk,2019,165.0
+kaden groves,2019,165.0
+martin toft madsen,2019,165.0
+raymond kreder,2019,165.0
+julien trarieux,2019,164.0
+josip rumac,2019,163.0
+mikel iturria,2019,162.0
+emil vinjebo,2019,161.0
+joseph areruya,2019,161.0
+andreas schillinger,2019,160.8
+matteo pelucchi,2019,160.0
+matthew walls,2019,160.0
+phil bauhaus,2019,159.9
+andrey zeits,2019,159.0
+etienne van empel,2019,158.0
+jonas koch,2019,158.0
+ben o connor,2019,157.0
+eduardo sepulveda,2019,157.0
+stijn vandenbergh,2019,157.0
+guillaume boivin,2019,156.0
+markus hoelgaard,2019,156.0
+matteo badilatti,2019,156.0
+mauro finetto,2019,156.0
+rafael valls,2019,156.0
+jerome cousin,2019,155.6699981689453
+benjamin perry,2019,155.0
+damiano cima,2019,155.0
+domen novak,2019,155.0
+fabio aru,2019,155.0

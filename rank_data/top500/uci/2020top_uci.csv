@@ -1,0 +1,501 @@
+rider_name,year,uci_points
+primoz roglic,2020,3574.0
+tadej pogacar,2020,2900.0
+wout van aert,2020,2690.0
+mathieu van der poel,2020,2040.0
+jakob fuglsang,2020,1941.0
+julian alaphilippe,2020,1720.8
+richie porte,2020,1713.0
+diego ulissi,2020,1656.0
+arnaud demare,2020,1436.0
+marc hirschi,2020,1430.0
+aleksandr vlasov,2020,1394.0
+florian senechal,2020,1325.0
+maximilian schachmann,2020,1310.0
+wilco kelderman,2020,1288.0
+tao geoghegan hart,2020,1252.0
+pascal ackermann,2020,1222.0
+richard carapaz,2020,1203.5
+yves lampaert,2020,1175.0
+guillaume martin,2020,1162.0
+remco evenepoel,2020,1140.0
+stefan kung,2020,1133.0
+jai hindley,2020,1126.0
+giacomo nizzolo,2020,1115.0
+vincenzo nibali,2020,1114.0
+george bennett,2020,1100.0
+joao almeida,2020,1050.3
+simon yates,2020,1046.0
+dan martin,2020,1038.0
+benoit cosnefroy,2020,1035.0
+filippo ganna,2020,1028.0
+michael matthews,2020,1022.0
+mads pedersen,2020,1013.0
+soren kragh andersen,2020,1008.0
+daniel felipe martinez,2020,981.329999923706
+warren barguil,2020,965.0
+michal kwiatkowski,2020,963.0
+mikel landa,2020,950.0
+caleb ewan,2020,945.0
+enric mas,2020,926.0
+miguel angel lopez,2020,925.0
+michael woods,2020,900.0
+sam bennett,2020,873.0
+thibaut pinot,2020,863.0
+nairo quintana,2020,857.0
+rafal majka,2020,835.0
+alexander kristoff,2020,832.0
+hugh carthy,2020,821.0
+tiesj benoot,2020,780.0
+peter sagan,2020,770.0
+tim merlier,2020,745.0
+nacer bouhanni,2020,736.0
+alejandro valverde,2020,716.0
+tom dumoulin,2020,700.0
+jasper stuyven,2020,685.0
+pello bilbao,2020,685.0
+simon geschke,2020,674.0
+kasper asgreen,2020,665.0
+greg van avermaet,2020,650.0
+alberto bettiol,2020,649.0
+david gaudu,2020,635.0
+adam yates,2020,626.0
+matteo trentin,2020,626.0
+geraint thomas,2020,602.0
+sergio higuita,2020,596.3
+lennard kamna,2020,595.0
+jasper philipsen,2020,594.0
+john degenkolb,2020,589.0
+giulio ciccone,2020,575.0
+patrick konrad,2020,569.0
+daryl impey,2020,565.0
+rui costa,2020,553.0
+rohan dennis,2020,550.0
+luka mezgec,2020,545.0
+andrea vendrame,2020,532.0
+aleksey lutsenko,2020,531.0
+dylan van baarle,2020,528.0
+aime de gendt,2020,518.0
+amaury capiot,2020,506.0
+andrea pasqualon,2020,500.0
+gianni vermeersch,2020,499.0
+gorka izagirre,2020,498.0
+dion smith,2020,491.0
+fausto masnada,2020,483.0
+tim wellens,2020,481.0
+anthony turgis,2020,472.0
+matej mohoric,2020,471.0
+dries devenyns,2020,466.0
+dylan teuns,2020,460.0
+pavel sivakov,2020,460.0
+davide ballerini,2020,458.0
+wout poels,2020,456.0
+damiano caruso,2020,448.0
+davide formolo,2020,438.0
+romain bardet,2020,438.0
+marc soler,2020,437.0
+jack haig,2020,430.0
+tanel kangert,2020,430.0
+danny van poppel,2020,429.0
+rudy molard,2020,428.0
+valentin madouas,2020,426.0
+egan bernal,2020,422.5
+bauke mollema,2020,420.0
+tim declercq,2020,415.0
+oliver naesen,2020,411.0
+alex aranburu,2020,410.0
+sonny colbrelli,2020,400.0
+remi cavagna,2020,395.0
+alexander krieger,2020,386.0
+david de la cruz,2020,370.0
+jean pierre drucker,2020,362.5
+andrea bagioli,2020,360.3
+biniam ghirmay,2020,358.0
+felix grossschartner,2020,356.0
+rigoberto uran,2020,352.3
+sepp kuss,2020,351.0
+gregor muhlberger,2020,349.0
+jesus herrada lopez,2020,349.0
+hermann pernsteiner,2020,348.0
+nils eekhoff,2020,348.0
+josef cerny,2020,347.0
+andreas leknessund,2020,345.4
+fernando gaviria,2020,344.0
+fabio jakobsen,2020,340.0
+jhonatan narvaez,2020,333.3
+ion izagirre,2020,333.0
+ethan hayter,2020,327.8
+johan esteban chaves,2020,327.0
+jacopo mosca,2020,325.0
+stanislaw aniolkowski,2020,324.0
+zdenek stybar,2020,321.0
+clement venturini,2020,315.0
+alexandr riabushenko,2020,308.0
+simon clarke,2020,308.0
+ivan garcia cortina,2020,304.0
+olav kooij,2020,301.0
+loic vliegen,2020,296.0
+brandon mcnulty,2020,294.0
+damien howson,2020,294.0
+jonas rickaert,2020,289.0
+diego rosa,2020,288.0
+sven erik bystrom,2020,286.0
+jordi meeus,2020,281.0
+markus hoelgaard,2020,274.4
+eduard michael grosu,2020,273.0
+bryan coquard,2020,272.0
+attila valter,2020,270.0
+florian vermeersch,2020,270.0
+lorenzo rota,2020,266.0
+hugo hofstetter,2020,265.0
+jakub kaczmarek,2020,265.0
+xandro meurisse,2020,264.0
+quinn simmons,2020,260.0
+victor campenaerts,2020,258.3
+mike teunissen,2020,257.0
+aurelien paret peintre,2020,256.0
+andreas kron,2020,255.0
+matteo moschetti,2020,255.0
+elia viviani,2020,254.0
+robert stannard,2020,254.0
+philippe gilbert,2020,253.0
+lucas hamilton,2020,251.0
+adam toupalik,2020,249.0
+james knox,2020,245.3
+niccolo bonifazio,2020,242.0
+edward irl dunbar,2020,241.0
+natnael tesfatsion,2020,241.0
+danilo celano,2020,228.0
+dries de bondt,2020,225.0
+mykhaylo kononenko,2020,224.7
+alessandro fedeli,2020,224.0
+casper pedersen,2020,221.0
+petr vakoc,2020,221.0
+mikel nieve,2020,219.0
+jonas iversby hvideberg,2020,218.0
+jan bakelants,2020,217.0
+luis leon sanchez,2020,212.0
+pierre rolland,2020,212.0
+jens keukeleire,2020,207.0
+ruben guerreiro,2020,206.0
+kevin geniets,2020,205.0
+stefan bissegger,2020,204.6
+ruben fernandez,2020,203.0
+dimitri claeys,2020,200.0
+jan polanc,2020,200.0
+yevgeniy fedorov,2020,199.0
+alex dowsett,2020,197.0
+ben o connor,2020,197.0
+fabio felline,2020,197.0
+nans peters,2020,197.0
+anatoliy budyak,2020,196.0
+bob jungels,2020,195.8
+alessandro de marchi,2020,195.0
+alessandro covi,2020,192.0
+youcef reguigui,2020,192.0
+artem ovechkin,2020,190.0
+miguel eduardo florez,2020,190.0
+nicolas edet,2020,190.0
+pawel bernas,2020,189.20000000298023
+jannik steimle,2020,188.8
+timothy dupont,2020,188.0
+gianluca brambilla,2020,187.0
+ben swift,2020,186.8
+jon aberasturi,2020,186.0
+luca mozzato,2020,186.0
+luca wackermann,2020,186.0
+emanuel buchmann,2020,185.0
+michael valgren andersen,2020,181.0
+nikodemus holler,2020,181.0
+dorian godon,2020,180.0
+serghei tvetcov,2020,180.0
+arvid de kleijn,2020,178.0
+matteo badilatti,2020,178.0
+nelson oliveira,2020,178.0
+romain hardy,2020,178.0
+amaro manuel antunes,2020,177.0
+timo roosen,2020,176.0
+jonathan klever caicedo,2020,175.3
+shane archbold,2020,175.0
+nicola conci,2020,174.0
+oscar sevilla,2020,174.0
+maurits lammertink,2020,173.0
+ben hermans,2020,170.0
+domenico pozzovivo,2020,170.0
+josip rumac,2020,170.0
+victor de la parte,2020,170.0
+giovanni visconti,2020,168.0
+daniel mclay,2020,166.0
+frederico figueiredo,2020,165.0
+jay mccarthy,2020,164.0
+kristian sbaragli,2020,163.0
+ilnur zakarin,2020,162.0
+edward planckaert,2020,161.0
+phil bauhaus,2020,161.0
+thibault guernalec,2020,161.0
+cristian raileanu,2020,160.0
+kamil malecki,2020,158.0
+sergio luis henao,2020,158.0
+pascal eenkhoorn,2020,157.0
+stan dewulf,2020,156.0
+nicolas roche,2020,155.0
+romain cardis,2020,155.0
+joey rosskopf,2020,154.0
+nicholas white2,2020,152.0
+marco tizza,2020,151.0
+nathan haas,2020,151.0
+david dekker,2020,150.0
+kenny elissonde,2020,150.0
+simone velasco,2020,149.0
+jan tratnik,2020,148.0
+max walscheid,2020,148.0
+moise mugisha,2020,148.0
+onur balkan,2020,148.0
+valerio conti,2020,148.0
+hideto nakane,2020,147.0
+maciej paterski,2020,147.0
+torstein traeen,2020,146.4
+neilson powless,2020,146.0
+omar fraile,2020,146.0
+sarawut sirironnachai,2020,146.0
+jesse ewart,2020,145.0
+michael morkov,2020,145.0
+enrico battaglin,2020,144.0
+louis meintjes,2020,143.0
+alex kirsch,2020,142.0
+gustavo cesar veloso,2020,142.0
+luke durbridge,2020,142.0
+magnus cort nielsen,2020,142.0
+michael gogl,2020,142.0
+sebastien reichenbach,2020,141.0
+gonzalo serrano,2020,138.0
+jordan levasseur,2020,138.0
+ryan gibbons,2020,138.0
+lawrence naesen,2020,137.0
+lilian calmejane,2020,136.0
+vitaliy buts,2020,136.0
+joris nieuwenhuis,2020,135.7
+dries van gestel,2020,134.0
+marcus culey,2020,133.0
+gerben thijssen,2020,132.0
+arjen livyns,2020,131.0
+ben healy,2020,131.0
+maximilian stedman,2020,131.0
+quentin pacher,2020,131.0
+simon carr,2020,131.0
+mikkel honore,2020,130.1
+christofer robin jurado,2020,130.0
+gediminas bagdonas,2020,130.0
+sergey shilov,2020,130.0
+cees bol,2020,128.0
+lucas carstensen,2020,128.0
+carlos barbero,2020,126.0
+davide villella,2020,126.0
+johan jacobs,2020,126.0
+juraj sagan,2020,125.5
+antwan tolhoek,2020,125.0
+fabio aru,2020,125.0
+jake stewart,2020,125.0
+johan le bon,2020,125.0
+jurgen roelandts,2020,125.0
+carlos verona,2020,124.0
+joni brandao,2020,124.0
+silvan dillier,2020,124.0
+sebastian berwick,2020,123.0
+sergei chernetski,2020,123.0
+bert van lerberghe,2020,122.8
+michael kukrle,2020,122.0
+benjamin declercq,2020,121.0
+martin haring,2020,121.0
+sander armee,2020,121.0
+louis vervaeke,2020,120.0
+sam oomen,2020,120.0
+emmanuel morin,2020,119.0
+robert power,2020,119.0
+fabian lienhard,2020,118.0
+alexis guerin,2020,117.0
+jefferson cepeda hernandez,2020,117.0
+daniil pronskiy,2020,116.0
+jhonatan restrepo,2020,116.0
+jonas vingegaard rasmussen,2020,116.0
+lawrence warbasse,2020,116.0
+oscar rodriguez,2020,116.0
+anthony roux,2020,115.0
+enrique sanz,2020,115.0
+viesturs luksevics,2020,115.0
+yauhen sobal,2020,115.0
+pieter serry,2020,114.3
+janez brajkovic,2020,113.0
+maris bogdanovics,2020,112.0
+matthew holmes,2020,112.0
+carl fredrik hagen,2020,111.0
+cameron meyer,2020,110.0
+drikus coetzee,2020,110.0
+harm vanhoucke,2020,110.0
+hugo houle,2020,110.0
+norman vahtra,2020,110.0
+pierpaolo ficara,2020,110.0
+polychronis tzortzakis,2020,110.0
+rudy barbier,2020,110.0
+thanakhan chaiyasombat,2020,110.0
+marti marquez,2020,109.0
+baptiste planckaert,2020,108.0
+edvald boasson hagen,2020,108.0
+gavin mannion,2020,108.0
+mauro finetto,2020,108.0
+piet allegaert,2020,108.0
+tobias foss,2020,108.0
+eduard prades,2020,107.0
+mattia cattaneo,2020,107.0
+simon pellaud,2020,107.0
+luis gomes,2020,106.0
+chad haga,2020,105.7
+kaden groves,2020,105.0
+kevin ledanois,2020,105.0
+nico denz,2020,104.7
+alan banaszek,2020,104.2
+anthony delaplace,2020,104.0
+davide gabburo,2020,104.0
+fabien doubey,2020,104.0
+julien simon,2020,104.0
+kenneth van rooy,2020,104.0
+bruno armirail,2020,103.0
+jelle vanendert,2020,103.0
+piotr brozyna,2020,103.0
+michael storer,2020,102.70999997854233
+matteo fabbro,2020,102.0
+william barta,2020,102.0
+alberto dainese,2020,101.0
+diego rubio,2020,101.0
+edvaldas siskevicius,2020,101.0
+gino mader,2020,101.0
+thomas de gendt,2020,101.0
+brent bookwalter,2020,100.0
+dan craven,2020,100.0
+kim magnusson,2020,100.0
+marcel meisen,2020,100.0
+marek canecky,2020,100.0
+pawel franczak,2020,100.0
+jack bauer,2020,99.0
+ryan cavanagh,2020,99.0
+adne van engelen,2020,98.0
+andriy vasylyuk,2020,98.0
+juan jose lobato,2020,98.0
+kent main,2020,98.0
+thomas sprengers,2020,98.0
+emanuel piaskowy,2020,97.0
+georg zimmermann,2020,97.0
+sep vanmarcke,2020,96.0
+jasper de buyst,2020,95.0
+marco haller,2020,95.0
+peerapol chawchiangkwang,2020,95.0
+henok mulubrhan,2020,94.0
+filippo fortin,2020,93.0
+jaime castrillo,2020,93.0
+sergio samitier,2020,93.0
+jasha sutterlin,2020,92.0
+tom van asbroeck,2020,92.0
+danilo wyss,2020,91.0
+jakub otruba,2020,91.0
+mads wurtz schmidt,2020,91.0
+savva novikov,2020,91.0
+toms skujins,2020,91.0
+barnabas peak,2020,90.0
+dylan groenewegen,2020,90.0
+erik baska,2020,90.0
+michael van staeyen,2020,90.0
+aaron gate,2020,89.0
+dylan kennett,2020,88.0
+lucas de rossi,2020,88.0
+alexys brunel,2020,87.0
+jesper hansen 1,2020,87.0
+jonathan castroviejo,2020,87.0
+reinardt janse van rensburg,2020,87.0
+alfdan de decker,2020,86.0
+clement champoussin,2020,86.0
+jan andrej cully,2020,86.0
+mamyr stash,2020,86.0
+simone consonni,2020,86.0
+damien touze,2020,85.0
+itamar einhorn,2020,85.0
+kyle murphy,2020,85.0
+thomas boudat,2020,85.0
+patryk stosz,2020,84.0
+benjamin thomas 2,2020,83.0
+carlos quintero,2020,83.0
+christophe laporte,2020,83.0
+emils liepins,2020,83.0
+remy rochas,2020,83.0
+vicente garcia de mateus rubio,2020,83.0
+winner anacona,2020,83.0
+edoardo affini,2020,82.3
+daniel navarro,2020,82.0
+nick schultz,2020,82.0
+niklas eg,2020,82.0
+marc sarreau,2020,80.0
+valentin midey,2020,80.0
+eliot lietaer,2020,79.0
+iljo keisse,2020,79.0
+jakub mareczko,2020,79.0
+anthony maldonado,2020,78.0
+august jensen,2020,78.0
+cristian rodriguez,2020,78.0
+karl patrick lauk,2020,78.0
+lorenzo fortunato,2020,78.0
+nicola bagioli,2020,78.0
+szymon sajnok,2020,78.0
+tom wirtgen,2020,78.0
+ylber sefa,2020,78.0
+owain doull,2020,77.8
+giovanni aleotti,2020,75.0
+muradjan halmuratov,2020,75.0
+stylianos farantakis,2020,75.0
+chris hamilton,2020,73.0
+harold tejada,2020,73.0
+romain combaud,2020,73.0
+tom devriendt,2020,73.0
+edward theuns,2020,72.0
+oscar riesebeek,2020,72.0
+lucas eriksson,2020,71.0
+luke rowe,2020,71.0
+samuele battistella,2020,71.0
+thomas pidcock,2020,71.0
+alessandro fancellu,2020,70.0
+branislau samoilau,2020,70.0
+chris harper,2020,70.0
+daniel savini,2020,70.0
+evgeny shalunov,2020,70.0
+frederik frison,2020,70.0
+heinrich haussler,2020,70.0
+martin urianstad,2020,70.0
+merhawi kudus,2020,70.0
+simone petilli,2020,70.0
+daniel turek,2020,69.0
+sean de bie,2020,69.0
+sebastian schonberger,2020,69.0
+simone ravanelli,2020,69.0
+jayde julius,2020,68.0
+matteo jorgenson,2020,68.0
+mikael cherel,2020,68.0
+senne leysen,2020,68.0
+jetse bol,2020,67.0
+kilian frankiny,2020,67.0
+matthias brandle,2020,67.0
+nick van der lijke,2020,67.0
+nils politt,2020,67.0
+roger kluge,2020,67.0
+alexis gougeard,2020,66.0
+aksel nommela,2020,65.0
+bert jan lindeman,2020,65.0
+chun kai feng,2020,65.0
+jeremy lecroq,2020,65.0
+kevin rivera,2020,65.0
+kristoffer halvorsen,2020,65.0
+olivier le gac,2020,65.0
+ulises alfredo castillo,2020,65.0
+max kanter,2020,64.7
+delio fernandez,2020,64.0
+juan sebastian molano,2020,64.0
+alvaro jose hodeg,2020,63.8
+ben tulett,2020,63.0
+joao benta,2020,63.0
